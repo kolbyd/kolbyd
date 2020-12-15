@@ -8,3 +8,5 @@ This project started off as a joke but turned into a fairly fun project. To clar
 
 ### [Pilot Discord Bot](https://github.com/kolbyd/Pilot-Discord-Bot)
 This project is a Python-based Discord bot that is meant for providing information that is vital to pilots. While currently unfinished, I am hoping to eventually finish it in the future and I'm happy with the current code base on it.
+
+![](https://github-readme-stats.vercel.app/api?username=kolbyd&theme=nord)
