@@ -6,7 +6,4 @@ This is the Winnipeg FIR website. We started this project in the March of 2020 i
 ### [With You Bot](https://github.com/winnipegfir/with-you-bot)
 This project started off as a joke but turned into a fairly fun project. To clarify for the non-aviation folk, pilots like to say 'with you' when they initally call you on frequency. This would be equivalent to saying 'I'm here!' when you are standing in front of someone. This is a discord bot to count the amount of times someone calls in on frequency saying 'with you'. The bot started off with just a basic counter stored in memory, but eventually evolved to storing the number in a txt file and database integration. This project shows my evolvement of my Python skills from June 2020-now.
 
-### [Pilot Discord Bot](https://github.com/kolbyd/Pilot-Discord-Bot)
-This project is a Python-based Discord bot that is meant for providing information that is vital to pilots. While currently unfinished, I am hoping to eventually finish it in the future and I'm happy with the current code base on it.
-
 ![](https://github-readme-stats.vercel.app/api?username=kolbyd&theme=nord)
