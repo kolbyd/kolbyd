@@ -1,9 +1,12 @@
-##### Welcome to my profile. This is the place where I put the projects that I make, although, most of my work can be found in the [Winnipeg FIR](https://github.com/winnipegfir) or [VATSIM Canada](https://github.com/vatsimcanada) organizations.
+### Hi! I'm Kolby Dunning and I am a self-taught developer. I have knowledge with PHP, Java and Python, along with HTML, CSS, JavaScript and Typescript.
 
-### [CZWG-core](https://github.com/winnipegfir/CZWG-core)
-This is the Winnipeg FIR website. We started this project in the March of 2020 in replacement of our old Winnipeg website that was based on Wordpress. The [Gander Oceanic OCA](https://github.com/gander-oceanic-fir-vatsim) played a large part in lowering our development time by allowing us to base it off their website. Check out their website [here](https://ganderoceanic.com).
+A few of the projects I've worked on are below:
+- [Spotify Playlist Generator](https://github.com/kolbyd/spotify-playlist-generator) | A script to convert my Spotify liked songs into a playlist.
+- [Push to Mute for Windows](https://github.com/kolbyd/Push-to-Mute) | Set a button to hold that mutes your Windows sound.
+- [With You Bot](https://github.com/winnipegfir/with-you-bot) | An overengineered counter in a discord bot that includes database integration.
+- [Winnipeg FIR Website](https://github.com/winnipegfir/CZWG-core) | The repository for the first website I worked on.
 
-### [With You Bot](https://github.com/winnipegfir/with-you-bot)
-This project started off as a joke but turned into a fairly fun project. To clarify for the non-aviation folk, pilots like to say 'with you' when they initally call you on frequency. This would be equivalent to saying 'I'm here!' when you are standing in front of someone. This is a discord bot to count the amount of times someone calls in on frequency saying 'with you'. The bot started off with just a basic counter stored in memory, but eventually evolved to storing the number in a txt file and database integration. This project shows my evolvement of my Python skills from June 2020-now.
+## Need help with a project?
+I am always looking to help people make their ideas come to life. Please email me at [kolby@kolbyd.ca](mailto:kolby@kolbyd.ca) to reach out.
 
-![](https://github-readme-stats.vercel.app/api?username=kolbyd&theme=nord)
+Visit my website | [kolbyd.ca](https://kolbyd.ca)
