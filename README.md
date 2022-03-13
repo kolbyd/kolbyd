@@ -9,4 +9,4 @@ A few of the projects I've worked on are below:
 ## Need help with a project?
 I am always looking to help people make their ideas come to life. Please email me at [kolby@kolbyd.ca](mailto:kolby@kolbyd.ca) to reach out.
 
-Visit my website | [kolbyd.ca](https://kolbyd.ca)
+Visit my website | [kolbyd.ca](https://kolbyd.ca)a
